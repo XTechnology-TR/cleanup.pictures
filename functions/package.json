@@ -15,7 +15,7 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "axios": "^0.23.0",
+    "axios": "^1.7.8",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-multipart-file-parser": "^0.1.2",
